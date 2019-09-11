@@ -21,4 +21,6 @@ Project 2: 138.7/140
 
 Project 3: 140/140
 
-Project 4: Not graded yet
+Project 4: 140/140
+
+Grade Received in class: A
